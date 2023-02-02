@@ -1,13 +1,81 @@
 body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-}
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+      'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+      sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+  
+  code {
+    font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+      monospace;
+  }
+  .navbar a {
+    text-transform: capitalize;
+    font-size: 1rem;
+  }
+  .navbar-nav{
+    margin-left: auto;
+  }
+  .menu-active{
+    font-weight: bold;
+    border-bottom:1px solid #565387;
+  }
+  .navbar a:hover{
+    color: #3498db !important;
+  }
+  
+  /************* HOME PAGE*********/
+  .brand-name{
+    color: #3498db;
+  }
+  .mt-3 a{
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
-}
+    border-radius: 30px !important;
+    letter-spacing: 1px;
+    padding: 10px 20px;
+    transition: 0.5s;
+  }
+  .mt-3 a:hover{
+    color: white;
+  }
+  .partition{
+    padding-top: 5rem;
+  }
+  .d-flex{
+    padding-bottom: 4.5rem;
+  }
+  
+  #header{
+    width: 100%;
+    height: 80vh;
+    /* margin-top: 70px; */
+  }
+  #header h1{
+    margin:0 0 10px 0;
+    font-size: 43px;
+    font-weight: 700;
+  }
+  .header-img{
+    text-align: right;
+  }
+  .header-img .animated{
+    animation: up-down 2s ease-in-out infinite alternate-reverse both;
+  }
+  @-webkit-keyframes up-down {
+    0%{
+      transform: translatey(10px);
+    }
+    100%{
+      transform: translatey(-10px);
+    }
+  }
+  @keyframes up-down {
+    0%{
+      transform: translatey(10px);
+    }
+    100%{
+      transform: translatey(-10px);
+    }
+  }
