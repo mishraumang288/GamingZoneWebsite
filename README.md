@@ -1,6 +1,7 @@
-# Getting Started with Create React App
+This is GamingZone website made using technologies : frontend - Html,Css,JS and for Backend i used node.js and react, database used was Mongodb.
+This contain multiple pages like login/Register, about in which the data entered is directly goes to my database.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![image](https://user-images.githubusercontent.com/71564678/216469410-834f7aab-85fc-4a9a-a699-5cf5ffd8e692.png)
 
 ## Available Scripts
 
