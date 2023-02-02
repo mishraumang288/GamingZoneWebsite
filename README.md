@@ -1,4 +1,4 @@
-This is GamingZone fully responsive website made using technologies : frontend - Html,Css,JS and for Backend i used node.js and react, database used was Mongodb.
+This is a GamingZone fully responsive website made using technologies : frontend - Html,Css,JS and for Backend i used node.js and react, database used was Mongodb.
 This contain multiple pages like login/Register, about in which the data entered is directly goes to my database.
 
 Below are the Screenshots of my website :
