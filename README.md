@@ -5,6 +5,7 @@ CLICK BELOW LINK TO VISIT MY WEBSITE :
 https://mishraumang288.github.io/GamingZoneWebsite/
 
 Below are the Screenshots of my website :
+![image](https://user-images.githubusercontent.com/71564678/216480499-f72a537e-2f71-4c03-935c-4018ca861e7d.png)
 ![image](https://user-images.githubusercontent.com/71564678/216469748-c0bf84b9-42eb-49c7-b7e3-ab8f5468373d.png)
 ![image](https://user-images.githubusercontent.com/71564678/216469876-c05a8de2-757c-4064-a4b6-3b465da844ef.png)
 ![image](https://user-images.githubusercontent.com/71564678/216469932-743b9291-5c24-455d-9fe2-ddb77a03cd6a.png)
