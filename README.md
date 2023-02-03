@@ -9,6 +9,10 @@ Below are the Screenshots of my website :
 ![image](https://user-images.githubusercontent.com/71564678/216469876-c05a8de2-757c-4064-a4b6-3b465da844ef.png)
 ![image](https://user-images.githubusercontent.com/71564678/216469932-743b9291-5c24-455d-9fe2-ddb77a03cd6a.png)
 ![image](https://user-images.githubusercontent.com/71564678/216470212-22ac52e2-7f9e-47fa-ab0a-8a2d728fb4a6.png)
+![image](https://user-images.githubusercontent.com/71564678/216480278-cb457a02-89bd-4d0f-a596-b5c97fbf61ca.png)
+![image](https://user-images.githubusercontent.com/71564678/216480363-9a50899a-f96d-4316-90a9-e7b244036146.png)
+![image](https://user-images.githubusercontent.com/71564678/216480406-4e76f821-8f15-4424-9d59-3e7902c4884b.png)
+
 
 
 ## Available Scripts
